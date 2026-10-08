@@ -1,0 +1,101 @@
+{
+  "version": 1,
+  "songs": [
+    {
+      "title": "(Ready_ Go!)",
+      "file": "songs/s01.m4a",
+      "seconds": 198,
+      "bytes": 2629609
+    },
+    {
+      "title": "기분좋은 이별",
+      "file": "songs/s02.m4a",
+      "seconds": 185,
+      "bytes": 2467779
+    },
+    {
+      "title": "너만 모르는 오래된 이야기",
+      "file": "songs/s03.m4a",
+      "seconds": 155,
+      "bytes": 2073034
+    },
+    {
+      "title": "너와 둘이서하는 드라이브",
+      "file": "songs/s04.m4a",
+      "seconds": 160,
+      "bytes": 2132895
+    },
+    {
+      "title": "눈을 뜨면 들려오는",
+      "file": "songs/s05.m4a",
+      "seconds": 164,
+      "bytes": 2180595
+    },
+    {
+      "title": "달려가자 이 여름이니까",
+      "file": "songs/s06.m4a",
+      "seconds": 177,
+      "bytes": 2371034
+    },
+    {
+      "title": "대한민국 우리가 간다",
+      "file": "songs/s07.m4a",
+      "seconds": 204,
+      "bytes": 2707393
+    },
+    {
+      "title": "두바이 쫀득 쿠키 쏭",
+      "file": "songs/s08.m4a",
+      "seconds": 190,
+      "bytes": 2532653
+    },
+    {
+      "title": "뜨거운 코트를 가르며 너에게 가고 있어 우리 함께한 약속을 위해 내 모든",
+      "file": "songs/s09.m4a",
+      "seconds": 168,
+      "bytes": 2232651
+    },
+    {
+      "title": "봄동비빔밥",
+      "file": "songs/s10.m4a",
+      "seconds": 177,
+      "bytes": 2361101
+    },
+    {
+      "title": "서로의 손을 놓던 날",
+      "file": "songs/s11.m4a",
+      "seconds": 199,
+      "bytes": 2662439
+    },
+    {
+      "title": "스파클링샷",
+      "file": "songs/s12.m4a",
+      "seconds": 175,
+      "bytes": 2327471
+    },
+    {
+      "title": "애쉬 브라운 짧은 머리",
+      "file": "songs/s13.m4a",
+      "seconds": 145,
+      "bytes": 1957328
+    },
+    {
+      "title": "어쩜 오늘 날씨는 딱 너 같아",
+      "file": "songs/s14.m4a",
+      "seconds": 195,
+      "bytes": 2604514
+    },
+    {
+      "title": "창가에 비친 햇살이 너무 좋아",
+      "file": "songs/s15.m4a",
+      "seconds": 177,
+      "bytes": 2360319
+    },
+    {
+      "title": "창문을 열면 꽃향기가 들어와",
+      "file": "songs/s16.m4a",
+      "seconds": 173,
+      "bytes": 2308908
+    }
+  ]
+}
